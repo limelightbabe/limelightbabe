@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm in the course name OpenSource Software. 
+I think i'll love it.
 
 <!--
 **limelightbabe/limelightbabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
